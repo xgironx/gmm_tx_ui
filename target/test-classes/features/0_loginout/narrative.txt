@@ -1,0 +1,4 @@
+Login to GMM
+In order to use GMM application
+As a user
+I want to be able to login with my role

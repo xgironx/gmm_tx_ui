@@ -1,0 +1,9 @@
+Search for definitions
+In order to understand a word that I don't know
+As a user
+I want to be able to look up the meaning of the word
+
+Show Dashboard 
+To see my Applications
+As a user with the Grantee role
+  In order to Review my Applications
